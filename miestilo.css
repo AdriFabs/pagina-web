@@ -1,0 +1,18 @@
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    color:blue;
+}
+h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serifCourier, monospace;
+    color:purple;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+}
+p{
+    border:10px; border-style: solid;
+    margin: 20px;
+    width: 80%;
+    font-family: Arial, Helvetica, sans-serif;
+    color:green;
+}
